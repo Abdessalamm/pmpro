@@ -19,3 +19,5 @@ to ``` <form id="pmpro_form" class="card-body <?php echo pmpro_get_element_class
   
   I might add a better style soon when i get sometime.
 Take checkout.php to plugin folder/pages/ and assets to /assets/pages/ or change path in checkout file.
+
+Make sure the page is Full width.
